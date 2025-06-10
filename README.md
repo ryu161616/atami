@@ -1,2 +1,1 @@
 # atami
-# atami
